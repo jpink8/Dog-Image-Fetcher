@@ -11,7 +11,7 @@ pip install requests pillow
 
 Run the script using:
 
-python dog_image_fetcher.py
+python demo2.py
 
 # Image Display Method
 
